@@ -5,7 +5,7 @@
 
 - Los repositorios públicos en mi github son proyectos académicos desarrollados durante el **bootcamp de Henry.**, también cuento con diversos proyectos personales.
 
-- Si quieres pactar una entrevista o saber más sobre mí, puedes contactarme por **email o linkedin.**
+- Si quieres pactar una entrevista o saber más sobre mí, puedes contactarme por **linkedin o email.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
