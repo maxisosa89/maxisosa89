@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Maxi</h1>
 <h3 align="center">Me apasiona la programación y la lógica.</h3>
 
-- Actualmente estoy trabajando en un **proyecto de e-commerce**
+- Actualmente estoy trabajando en distintos proyectos personales con JavaScript, React, Redux, NodeJs, y SQL
 
-- Los repositorios públicos en mi github son proyectos académicos desarrollados durante el **bootcamp de Henry.**
+- Los repositorios públicos en mi github son proyectos académicos desarrollados durante el **bootcamp de Henry.**, también cuento con diversos proyectos personales.
 
 - Si quieres pactar una entrevista o saber más sobre mí, puedes contactarme por **email o linkedin.**
 
